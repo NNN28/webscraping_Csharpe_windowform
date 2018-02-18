@@ -1,0 +1,13 @@
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\gamerank_scraping.exe.config
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\gamerank_scraping.exe
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\gamerank_scraping.pdb
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.csprojResolveAssemblyReference.cache
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.Form1.resources
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.Properties.Resources.resources
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.csproj.GenerateResource.Cache
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.csproj.CoreCompileInputs.cache
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.exe
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\obj\Debug\gamerank_scraping.pdb
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\AH INFO\source\repos\gamerank_scraping\gamerank_scraping\bin\Debug\HtmlAgilityPack.xml
